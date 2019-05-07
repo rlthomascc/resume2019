@@ -40,7 +40,7 @@ Applications
 * Implemented Nginx reverse proxy w/ caching to increase service throughout to 12k rps at 3ms per request and 0% error rate
 
 <b>Technologies Used:</b>
-```React, Webpack, Node.js, Express, MongoDB, Mongoose, Semantic UI, React Router, Axios```
+```React, Webpack, Babel, Node.js, Express, MongoDB, Mongoose, Bootstrap, React Router, Axios, PostgreSQL, Nginx, Artillery.io, Loader.io, AWS, EC2, ELB, AWS CloudWatch, PM2```
 
 **DRG Mortgage Calculator App**, *Front End Engineer*
 
@@ -50,9 +50,9 @@ Applications
 * Deployed IOS Application to the Apple App Store.
 
 <b>Technologies Used:</b>
-  ```React, Webpack, Node.js, Express, PostgreSQL, Sequelize, Artillery.io, Loader.io, AWS EC2, AWS ELB, AWS CloudWatch, nginx, pm2```
+  ```React Native, Node.js, React Native Pie Chart, Formik, Expo Babel, Webpack```
 
-**Crypto Quotes**, *Full Stack Engineer*
+**Flick Finder**, *Full Stack Engineer*
 
 <i>A MERN stack app that tracks Bitcoin and leading cryptocurrencies.</i>
 

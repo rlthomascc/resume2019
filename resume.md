@@ -3,7 +3,7 @@ Randy Lawrence Thomas
 
    :email: BookingRLThomas@gmail.com<br>
    :iphone: 209-481-7096<br>
-   [LinkedIn](https://www.linkedin.com/in/randy-thomas-71b5bb77/) || [Github](https://github.com/rlthomascc) || [Website](https://www.randy-thomas.com) || [Download Resume](https://s3.amazonaws.com/kp-misc/kevin_phung_resume.docx)
+   [LinkedIn](https://www.linkedin.com/in/randy-thomas-71b5bb77/) || [Github](https://github.com/rlthomascc) || [Website](https://www.randy-thomas.com) || [Download Resume](https://s3-us-west-1.amazonaws.com/rlthomas-resume/resume2019+2nd.pdf)
 
 ----
 
@@ -50,43 +50,45 @@ Applications
 * Deployed IOS Application to the Apple App Store.
 
 <b>Technologies Used:</b>
-  ```React Native, Node.js, React Native Pie Chart, Formik, Expo Babel, Webpack```
+  ```React Native, Node.js, React Native Pie Chart, Formik, Expo Babel, Webpack, Apple Store```
 
 **Flick Finder**, *Full Stack Engineer*
 
-<i>A MERN stack app that tracks Bitcoin and leading cryptocurrencies.</i>
+<i>A random movie generator based on a users specified genre. (http://www.flick-finder.com/)</i>
 
-* Curated last 6 months pricing history of Bitcoin using CoinDesk API and Chart.js for data rendering.
-* Created a custom ticker that displays the top 6 highest cryptocurrency holdings by price, market cap, and volume.
-* Increased service loading and reaction speed efficiency by 20%  using S3 bundle file compression.
-* Deployed service on AWS EC2 for modularity and future scalability.
-
-<b>Technologies Used:</b>
-  ```React, Express, Chart.js, Semantic.UI, CoinDesk API, CoinLib.io API, AWS EC2, AWS EBS```
-
-**ESPN NFL Team Page**, *Front End Engineer*
-
-<i>An app that generates data for a specific NFL Team.</i>
+* Utilized REST TMDb API to generate random films based on user specified genre.
+* Architect application aesthetics using Bootstrap.
+* Deployed full stack program onto EC2 database with PM2
 
 <b>Technologies Used:</b>
-  ```React, Webpack, Node.js, Express, MongoDB, Mongoose, Bootstrap, AWS EC2, AWS ELB, AWS S3```
+  ```React, Express, Bootstrap, Babel, Webpack, AWS EC2, TMDb API, Rest API, MERN, PM2```
+
+**Real Team**, *Front End Engineer*
+
+<i>A Real Estate team management and accountability tracker.</i>
+
+* Engineered authentication with BCrypt and MongoDB.
+* Implemented diagrams utilizing ChartJS library.
+* Articulated routes with React Router.
+
+<b>Technologies Used:</b>
+  ```React, Webpack, Node.js, Express, MongoDB, Mongoose, Bootstrap, Babel, Webpack, MERN, ChartJS, React Router ```
 
 
 
 Experience
 ---------
 
-**Clinical Nurse** | *Trinity Health of New England* | 2015-Present
-* Performed nursing assessments to ensure progression of patient goals.
-* Administered medications and skilled treatments per patient care plan.
-* Supervised nurses aides to assist patients with daily hygiene care.
-* Educated patients and families on disease processes, coping mechanisms, and community support groups.
+**The Del Real Group** | *Real Estate Broker Team * | 2015-Present
+* Manage and supervise a small team of individuals to create and distribute advertising campaigns and content.
+* Develop websites and services based upon events and lead generation.
+* Create documentation and content for agents within group utilizing Adobe suite.
+* Created an ios Mortgage Calculator App (see DRG Mortgage Calculator above) which brought in over $100,000.00 in transaction revenue.
 
 Education
 ---------
 
 
-**Thomas Edison State University** | *Computer Science* | expected 12/2019<br>
-**Hack Reactor** | *Advanced Software Engineering Immersive Program* | 2018<br>
-**Galen College of Nursing** | *Licensed Practical Nurse - Registered Nurse Program* | 2013<br>
+**Hack Reactor** | *Advanced Software Engineering Immersive Program* | 2018-2019<br>
+**Art Institute - Sacramento** | *Film & Web Design* | 2013 - 2015<br>
 

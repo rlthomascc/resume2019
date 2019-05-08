@@ -3,7 +3,7 @@ Randy Lawrence Thomas
 
    :email: BookingRLThomas@gmail.com<br>
    :iphone: 209-481-7096<br>
-   [LinkedIn](https://www.linkedin.com/in/randy-thomas-71b5bb77/) || [Github](https://github.com/rlthomascc) || [Website](https://www.randy-thomas.com) || [Download Resume](https://s3-us-west-1.amazonaws.com/rlthomas-resume/resume2019+2nd.docx)
+   [LinkedIn](https://www.linkedin.com/in/randy-thomas-71b5bb77/) || [Github](https://github.com/rlthomascc) || [Website](http://www.randy-thomas.com) || [Download Resume](https://s3-us-west-1.amazonaws.com/rlthomas-resume/resume2019+2nd.docx)
 
 ----
 

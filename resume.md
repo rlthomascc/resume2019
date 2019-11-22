@@ -12,10 +12,10 @@ Technical Skills
 
 **Front End**
 
-    JavaScript (ES5 and ES6), HTML5CSS3, React, Backbone, Bootstrap, Semantic UI, Material UI, SASS, LESS, Redux, Jquery, HTML, CSS
+    JavaScript (ES5 and ES6), C#, ASP.NET HTML5CSS3, React, Backbone, Bootstrap, Semantic UI, Material UI, SASS, LESS, Redux, Jquery, HTML, CSS
 **Back End**
 
-    Node.js, Express, MongoDB, Mongoose, MySQL, Firebase, RESTful API Development, CassandraDB, SQLite, PostgreSQL, 
+    C#, .NET, Node.js, Express, MongoDB, Mongoose, MySQL, Firebase, RESTful API Development, CassandraDB, SQLite, PostgreSQL, Loopback, Next.js
 **Testing**
 
 	Jasmine, Mocha, Chai, Jest, Enzyme, New Relic, loader.io, artillery.io
@@ -29,6 +29,17 @@ Technical Skills
 
 Applications
 ---------
+
+**The Humble Buyers**, *Full Stack Engineer*
+
+<i>Full Stack CRUD Real Estate landing page utilizing Twilio API & Google Maps API.</i>
+
+* MERN stack project with Google Maps API
+* Integrated Twilio notifications and MongoDB - Mongo Atlas Database integration.
+* Designed application aesthetics using Bootstrap.
+* Deployed web service with AWS EC2.
+* Updated nameservers on Godaddy to match AWS Route53 input.
+* SSL certificate via AWS through Godaddy.
 
 **ESPN Rams Page**, *Back End Engineer*
 
@@ -79,7 +90,17 @@ Applications
 Experience
 ---------
 
-**The Del Real Group** | *Real Estate Broker Team * | 2015-Present
+**Vagaro** | *Software Engineer * | 2019-Present
+* Create and Maintain Sales and Support AI Chatbot technologies [Monthly sales equivalent to human salesman].
+* Work with a small team of individuals Programming new technologies to add to the Vagaro Suite with C#, Node.js, React, ElasticSearch, MongoDB, and more.
+
+**The Humble Buyers** | *Software Engineer / Sales * | 2019-Present
+* Engineer and maintain website and applications.
+* Implement address automation with Google Maps API & SMS notifications with Twilio API.
+* Run Facebook and Google advertising campaigns with detailed analytics and targeting.
+* Communicate and nurture potential clientele towards transaction goal.
+
+**The Del Real Group** | *Real Estate Broker Team * | 2015-2019
 * Manage and supervise a small team of individuals to create and distribute advertising campaigns and content.
 * Develop websites and services based upon events and lead generation.
 * Create documentation and content for agents within group utilizing Adobe suite.
